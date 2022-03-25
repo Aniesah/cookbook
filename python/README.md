@@ -1,2 +1,0 @@
-# python
-a python cookbook
