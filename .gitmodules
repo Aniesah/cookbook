@@ -49,3 +49,6 @@
 [submodule "svg"]
 	path = svg
 	url = https://github.com/dudung/svg.git
+[submodule "tex"]
+	path = tex
+	url = https://github.com/dudung/tex.git
