@@ -1,3 +1,27 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/dudung/python.git
+[submodule "basic"]
+	path = basic
+	url = https://github.com/dudung/basic.git
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/dudung/cpp.git
+[submodule "go"]
+	path = go
+	url = https://github.com/dudung/go.git
+[submodule "fortran"]
+	path = fortran
+	url = https://github.com/dudung/fortran.git
+[submodule "java"]
+	path = java
+	url = https://github.com/dudung/java.git
+[submodule "js"]
+	path = js
+	url = https://github.com/dudung/js.git
+[submodule "json"]
+	path = json
+	url = https://github.com/dudung/json.git
+[submodule "node.js"]
+	path = node.js
+	url = https://github.com/dudung/node.js.git
