@@ -46,3 +46,6 @@
 [submodule "r"]
 	path = r
 	url = https://github.com/dudung/r.git
+[submodule "svg"]
+	path = svg
+	url = https://github.com/dudung/svg.git
