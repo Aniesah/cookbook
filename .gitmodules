@@ -25,3 +25,6 @@
 [submodule "node.js"]
 	path = node.js
 	url = https://github.com/dudung/node.js.git
+[submodule "lisp"]
+	path = lisp
+	url = https://github.com/dudung/lisp.git
