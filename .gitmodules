@@ -43,3 +43,6 @@
 [submodule "perl"]
 	path = perl
 	url = https://github.com/dudung/perl.git
+[submodule "r"]
+	path = r
+	url = https://github.com/dudung/r.git
