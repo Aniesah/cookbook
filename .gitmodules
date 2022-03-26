@@ -37,3 +37,6 @@
 [submodule "css"]
 	path = css
 	url = https://github.com/dudung/css.git
+[submodule "pascal"]
+	path = pascal
+	url = https://github.com/dudung/pascal.git
