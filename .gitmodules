@@ -28,3 +28,6 @@
 [submodule "lisp"]
 	path = lisp
 	url = https://github.com/dudung/lisp.git
+[submodule "php"]
+	path = php
+	url = https://github.com/dudung/php.git
