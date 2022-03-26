@@ -31,3 +31,6 @@
 [submodule "php"]
 	path = php
 	url = https://github.com/dudung/php.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/dudung/bash.git
