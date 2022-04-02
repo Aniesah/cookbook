@@ -52,3 +52,6 @@
 [submodule "tex"]
 	path = tex
 	url = https://github.com/dudung/tex.git
+[submodule "gnuplot"]
+	path = gnuplot
+	url = https://github.com/dudung/gnuplot
