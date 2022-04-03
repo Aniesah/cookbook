@@ -3,6 +3,7 @@ A place where to maintain the cookbook
 
 
 ## remove submodules -- 03-apr-2022
+0. View [current history](https://github.com/dudung/cookbook/tree/363be85db210254373ae784589f701166cae66e5).
 1. Check submodules.
 
 ```batch
@@ -174,3 +175,6 @@ $ cat .gitmodules
 
 $ 
 ```
+
+4. View the [commits](https://github.com/dudung/cookbook/commit/dbc3df772acba062457145a1e413d8260bccb7f5).
+5. View [new current history](https://github.com/dudung/cookbook/tree/dbc3df772acba062457145a1e413d8260bccb7f5).
