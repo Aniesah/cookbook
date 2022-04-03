@@ -1,2 +1,2 @@
 # python
-a python cookbook chapter
+a python notebook cookbook chapter
