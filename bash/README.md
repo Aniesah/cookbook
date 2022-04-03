@@ -1,2 +1,2 @@
 # bash
-a bash cookbook
+a bash cookbook chapter
