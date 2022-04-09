@@ -657,8 +657,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142137"
-     inkscape:cx="121.2688"
-     inkscape:cy="694.02524"
+     inkscape:cx="167.93784"
+     inkscape:cy="66.114478"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -734,55 +734,21 @@
          x="-52.056137"
          y="847.73633"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6666px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:1">c</tspan></text>
-    <g
-       id="g1376"
-       transform="translate(-12.000206,254.8756)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="133.64058"
-         y="1220.7847"
-         id="text1418-2-2-8-3"><tspan
-           sodipodi:role="line"
-           id="tspan1416-2-6-6-5"
-           x="133.64058"
-           y="1220.7847"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"><tspan
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="127.64037"
+       y="1475.6603"
+       id="text1418-2-2-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan1416-2-6-6-5"
+         x="127.64037"
+         y="1475.6603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"><tspan
    style="font-style:italic"
-   id="tspan8527-6">t</tspan> +   Δ<tspan
+   id="tspan8527-6">t'</tspan> + δ<tspan
    style="font-style:italic"
    id="tspan8525-5">t'</tspan></tspan></text>
-      <g
-         id="g12606-7"
-         transform="translate(-9.5383984,268.97718)">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 166.52364,945.56974 h 10"
-           id="path10370-6" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-           x="168.55293"
-           y="942.47156"
-           id="text1418-2-0-2"><tspan
-             sodipodi:role="line"
-             id="tspan1416-2-5-4"
-             x="168.55293"
-             y="942.47156"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">1</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-           x="168.64375"
-           y="957.47156"
-           id="text1418-2-0-9-9"><tspan
-             sodipodi:role="line"
-             id="tspan1416-2-5-2-2"
-             x="168.64375"
-             y="957.47156"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">2</tspan></text>
-      </g>
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -795,7 +761,7 @@
          y="1481.1056"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"><tspan
    style="font-style:italic"
-   id="tspan9473-6">t</tspan> + Δ<tspan
+   id="tspan9473-6">t'</tspan> + Δ<tspan
    style="font-style:italic"
    id="tspan9619-5">t'</tspan></tspan></text>
     <g
@@ -1268,7 +1234,7 @@
          id="tspan1416-2"
          x="46.832676"
          y="1481.1056"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">t</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">t'</tspan></text>
     <g
        id="g1149-3-1"
        transform="rotate(-90,-56.197108,864.86666)"
@@ -1598,108 +1564,40 @@
          x="-66.229141"
          y="929.37708"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6666px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:1">c</tspan></text>
-    <g
-       id="g7412"
-       transform="translate(-0.8236587,82.977215)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="29.89382"
-         y="1030.2528"
-         id="text1418-2-2-8-3-4"><tspan
-           sodipodi:role="line"
-           id="tspan1416-2-6-6-5-1"
-           x="29.89382"
-           y="1030.2528"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">(<tspan
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="41.611847"
+       y="1113.23"
+       id="text1418-2-2-8-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan1416-2-6-6-5-1"
+         x="41.611847"
+         y="1113.23"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">(<tspan
    style="font-style:italic"
    id="tspan7141">c</tspan> + <tspan
    style="font-style:italic"
-   id="tspan7143">v</tspan>)   Δ<tspan
+   id="tspan7143">v</tspan>) δ<tspan
    style="font-style:italic"
    id="tspan8525-5-9">t'</tspan></tspan></text>
-      <g
-         id="g12606-7-0"
-         transform="translate(-83.28516,78.44526)">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 166.52364,945.56974 h 10"
-           id="path10370-6-2" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-           x="168.55293"
-           y="942.47156"
-           id="text1418-2-0-2-5"><tspan
-             sodipodi:role="line"
-             id="tspan1416-2-5-4-8"
-             x="168.55293"
-             y="942.47156"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">1</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-           x="168.64375"
-           y="957.47156"
-           id="text1418-2-0-9-9-4"><tspan
-             sodipodi:role="line"
-             id="tspan1416-2-5-2-2-8"
-             x="168.64375"
-             y="957.47156"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">2</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g7412-9"
-       transform="translate(100.37035,-162.76196)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="29.89382"
-         y="1030.2528"
-         id="text1418-2-2-8-3-4-5"><tspan
-           sodipodi:role="line"
-           id="tspan1416-2-6-6-5-1-2"
-           x="29.89382"
-           y="1030.2528"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">(<tspan
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="96.959427"
+       y="867.49084"
+       id="text1418-2-2-8-3-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan1416-2-6-6-5-1-2"
+         x="96.959427"
+         y="867.49084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">(<tspan
    style="font-style:italic"
    id="tspan7141-5">c</tspan> – <tspan
    style="font-style:italic"
-   id="tspan7143-9">v</tspan>)   Δ<tspan
+   id="tspan7143-9">v</tspan>)(Δ<tspan
    style="font-style:italic"
-   id="tspan8525-5-9-0">t'</tspan></tspan></text>
-      <g
-         id="g12606-7-0-7"
-         transform="translate(-83.28516,78.44526)">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 166.52364,945.56974 h 10"
-           id="path10370-6-2-9" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-           x="168.55293"
-           y="942.47156"
-           id="text1418-2-0-2-5-9"><tspan
-             sodipodi:role="line"
-             id="tspan1416-2-5-4-8-1"
-             x="168.55293"
-             y="942.47156"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">1</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-           x="168.64375"
-           y="957.47156"
-           id="text1418-2-0-9-9-4-6"><tspan
-             sodipodi:role="line"
-             id="tspan1416-2-5-2-2-8-6"
-             x="168.64375"
-             y="957.47156"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">2</tspan></text>
-      </g>
-    </g>
+   id="tspan8525-5-9-0">t' – δt'</tspan>)</tspan></text>
     <path
        style="fill:none;stroke:#c8c8c8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
        d="m 249.99987,1277.3393 2.6e-4,180"
@@ -1731,5 +1629,105 @@
        style="fill:none;stroke:#f0f0f0;stroke-width:1.99999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 220,1438.5133 h 60"
        id="path1621-8-9-1" />
+    <g
+       id="g1376-4"
+       transform="translate(209.75712,169.46805)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="133.64058"
+         y="1220.7847"
+         id="text1418-2-2-8-3-7"><tspan
+           sodipodi:role="line"
+           id="tspan1416-2-6-6-5-18"
+           x="133.64058"
+           y="1220.7847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"><tspan
+   style="font-style:italic"
+   id="tspan8527-6-9">t'</tspan> +   Δ<tspan
+   style="font-style:italic"
+   id="tspan8525-5-2">t'</tspan></tspan></text>
+      <g
+         id="g12606-7-9"
+         transform="translate(-9.5383984,268.97718)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 166.52364,945.56974 h 10"
+           id="path10370-6-7" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           x="168.55293"
+           y="942.47156"
+           id="text1418-2-0-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan1416-2-5-4-0"
+             x="168.55293"
+             y="942.47156"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           x="168.64375"
+           y="957.47156"
+           id="text1418-2-0-9-9-9"><tspan
+             sodipodi:role="line"
+             id="tspan1416-2-5-2-2-0"
+             x="168.64375"
+             y="957.47156"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7412-2"
+       transform="translate(358.75841,104.49999)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="29.89382"
+         y="1030.2528"
+         id="text1418-2-2-8-3-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan1416-2-6-6-5-1-5"
+           x="29.89382"
+           y="1030.2528"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">(<tspan
+   style="font-style:italic"
+   id="tspan7141-0">c</tspan> + <tspan
+   style="font-style:italic"
+   id="tspan7143-0">v</tspan>)   Δ<tspan
+   style="font-style:italic"
+   id="tspan8525-5-9-7">t'</tspan></tspan></text>
+      <g
+         id="g12606-7-0-4"
+         transform="translate(-83.28516,78.44526)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 166.52364,945.56974 h 10"
+           id="path10370-6-2-5" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           x="168.55293"
+           y="942.47156"
+           id="text1418-2-0-2-5-0"><tspan
+             sodipodi:role="line"
+             id="tspan1416-2-5-4-8-11"
+             x="168.55293"
+             y="942.47156"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           x="168.64375"
+           y="957.47156"
+           id="text1418-2-0-9-9-4-1"><tspan
+             sodipodi:role="line"
+             id="tspan1416-2-5-2-2-8-2"
+             x="168.64375"
+             y="957.47156"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">2</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
