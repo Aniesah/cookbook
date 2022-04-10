@@ -573,8 +573,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142137"
-     inkscape:cx="79.549505"
-     inkscape:cy="358.85666"
+     inkscape:cx="96.520066"
+     inkscape:cy="415.42519"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -608,25 +608,25 @@
      id="layer1"
      transform="translate(0,-732.36216)">
     <g
-       id="g12618-3-9"
-       transform="translate(-11.785147,269.56832)">
+       id="g2307">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="143.17897"
-         y="951.80743"
+         x="131.39383"
+         y="1221.3757"
          id="text1418-2-2-8-3-2"><tspan
            sodipodi:role="line"
            id="tspan1416-2-6-6-5-4"
-           x="143.17897"
-           y="951.80743"
+           x="131.39383"
+           y="1221.3757"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"><tspan
    style="font-style:italic"
-   id="tspan8527-6-1">t</tspan> +   Δ<tspan
+   id="tspan8527-6-1">t'</tspan> +   Δ<tspan
    style="font-style:italic"
    id="tspan8525-5-2">t'</tspan></tspan></text>
       <g
-         id="g12606-7-0">
+         id="g12606-7-0"
+         transform="translate(-9.02364,269.56832)">
         <path
            style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 166.52364,945.56974 h 10"
