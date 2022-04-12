@@ -1,5 +1,5 @@
 # visiting_cities.py
-# Search order of visited cities
+# Search order of visited cities using genetic algorithm
 # 
 # Sparisoma Viridi | https://github.com/dudung/cookbook
 # 
@@ -15,6 +15,9 @@
 #     2234 Finish isvalidsolution function and print it.
 #     2255 Finish crossover function and print it.
 #     2311 Pause after try crossover for n = 0, .. 23.
+# 20220413 Make it public.
+#     0354 Test in OneCompiler.
+#     0357 Share it to group of FI3201-01.
 # 
 # Refs
 # 1. https://stackoverflow.com/a/3294899/9475509 dictionary for
