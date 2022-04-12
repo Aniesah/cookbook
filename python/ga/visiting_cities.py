@@ -14,6 +14,7 @@
 #     2225 Finish getconnectionstr function and print it.
 #     2234 Finish isvalidsolution function and print it.
 #     2255 Finish crossover function and print it.
+#     2311 Pause after try crossover for n = 0, .. 23.
 # 
 # Refs
 # 1. https://stackoverflow.com/a/3294899/9475509 dictionary for
@@ -242,8 +243,11 @@ print()
 
 print('chromosome0', chro0)
 print('chromosome1', chro1)
-# problem, e.g n = 19
-n = 20
+
+# ok: n = 0-2, 6-8, 9, 22, 23
+# problem: n = 19, 3-5, 10-12, 13-14, (15), (16, 17, 18), (19, 20, 21)
+n = 5
+
 print('crossover at', n)
 [chro2, chro3] = crossover(chro0, chro1, n)
 print('chromosome2', chro2)
