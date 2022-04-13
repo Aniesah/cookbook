@@ -18,6 +18,7 @@
 # 20220413 Make it public.
 #     0354 Test in OneCompiler.
 #     0357 Share it to group of FI3201-01.
+#     1059 Show live in the lecture.
 # 
 # Refs
 # 1. https://stackoverflow.com/a/3294899/9475509 dictionary for
@@ -89,7 +90,7 @@ def distance(c1, c2):
   return dr
 
 print('distance')
-print("AB", distance('A', 'D'))
+print("AD", distance('A', 'D'))
 print()
 
 
@@ -249,7 +250,7 @@ print('chromosome1', chro1)
 
 # ok: n = 0-2, 6-8, 9, 22, 23
 # problem: n = 19, 3-5, 10-12, 13-14, (15), (16, 17, 18), (19, 20, 21)
-n = 5
+n = 21
 
 print('crossover at', n)
 [chro2, chro3] = crossover(chro0, chro1, n)
