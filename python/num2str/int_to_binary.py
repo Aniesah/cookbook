@@ -1,6 +1,6 @@
 # int_to_binary.py
 # Convert integer to binary string
-# Sparisoma Viridi | https://github.com/dudung/cookbook
+# Sparisoma Viridi | github.com/dudung/cookbook
 # 20220413 Summarize and add some lines of examples.
 
 # set an int
@@ -14,7 +14,7 @@ print('digit =', digit)
 print()
 
 
-# url https://stackoverflow.com/a/63485151/9475509 [20220413]
+# url stackoverflow.com/a/63485151/9475509 [20220413]
 numbs1 = f'0b{num:08b}'
 print("f'0b{num:08b}'")
 print(numbs1)
@@ -33,7 +33,7 @@ print(numbs3)
 print()
 
 
-# url https://stackoverflow.com/a/62587270/9475509 [20220413]
+# url stackoverflow.com/a/62587270/9475509 [20220413]
 numbs4 = bin(num)
 print('bin(num)')
 print(numbs4)
@@ -46,21 +46,21 @@ print(numbs5)
 print()
 
 
-# url https://stackoverflow.com/a/53275552/9475509 [20220413]
+# url stackoverflow.com/a/53275552/9475509 [20220413]
 numbs6 = format(num, '06b')
 print("format(num, '06b')")
 print(numbs6)
 print()
 
 
-# url https://stackoverflow.com/a/55932455/9475509 [20220413]
+# url stackoverflow.com/a/55932455/9475509 [20220413]
 numbs7 = format(num, '0{}b'.format(digit))
 print("format(num, '0{}b'.format(digit))")
 print(numbs7)
 print()
 
 
-# url https://stackoverflow.com/a/56500977/9475509 [20220413]
+# url stackoverflow.com/a/56500977/9475509 [20220413]
 numbs8 = f'{num:0{digit}b}'
 print("f'{num:0{digit}b}'")
 print(numbs8)
