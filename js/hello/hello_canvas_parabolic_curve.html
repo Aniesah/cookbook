@@ -1,0 +1,19 @@
+<html>
+  <body>
+  <canvas id="myCanvas" width="300" height="150"></canvas>
+  <script>
+    var canvas = document.getElementById('myCanvas');
+    canvas.style.border="1px solid #000";
+    var ctx = canvas.getContext('2d');
+    ctx.beginPath();
+    ctx.moveTo(0,0);
+    for(var i = 0; i < 300; i++)
+    {
+      //i need to put one line of code here
+      //x=300/2; y=150/2; a=-1; ctx.lineTo(i, y - a/150*(i-x)*(i-x))
+      ctx.lineTo(i, 75 - 1/150*(i-150)*(i-150))
+    }
+    ctx.stroke();
+  </script>
+ </body>
+</html>
