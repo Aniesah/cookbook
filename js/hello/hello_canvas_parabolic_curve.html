@@ -10,10 +10,62 @@
     for(var i = 0; i < 300; i++)
     {
       //i need to put one line of code here
-      //x=300/2; y=150/2; a=-1; ctx.lineTo(i, y - a/150*(i-x)*(i-x))
-      ctx.lineTo(i, 75 - 1/150*(i-150)*(i-150))
+      x=300/2; y=150/2; a=1; ctx.lineTo(i, y - a/300*(i-x)*(i-x))
+      //ctx.lineTo(i, 75 - 1/150*(i-150)*(i-150))
     }
     ctx.stroke();
   </script>
+  
+  <pre>
+Canvas coordinate (X, Y)
+(0, 0) -----+
+  |         |
+  |         |
+  +------ (w, h)
+   
+World coordinate (x, y)
+  + ----- (c, d)
+  |         |
+  |         |
+(e, b) ---- +
+
+Transformation (x, y) -> (X, Y)
+X = (x - e) / (c - e) * (w - 0) + 0
+Y = (y - b) / (d - b) * (0 - h) + h
+
+Canvas size
+w = 300
+h = 150
+
+World coordinate ranges (only as example)
+e = -1
+b = -1
+c = 1
+d = 1
+
+Use
+X = (x - -1) / (1 - -1) * (300  - 0) + 0 = (x + 1) / 2 * 300
+  = 150 * (x + 1)
+x =  X / 150 - 1
+
+Y = (y - -1) / (1 - -1) * (0 - 150) + 150 = (y + 1) / 2 * -150 + 150
+  = -75 * (y + 1) + 150 = -75 * [ (y + 1) - 2]
+  = -75 * (y - 1)
+y = Y / -75 + 1
+  = 1 - Y / 75
+
+The equation is y = a * x * x
+         y = a * x * x
+1 - Y / 75 = a * (X / 150 - 1) * (X / 150 - 1)
+   -Y / 75 = -1 + a * (X / 150 - 1) * (X / 150 - 1)
+
+Y = 75 - 75 * a * (X / 150 - 1) * (X / 150 - 1)
+  = 75 - 75 * a * (X / 150 - 1) * (X / 150 - 1) * 1
+  = 75 - 75 * a * (X / 150 - 1) * (X / 150 - 1) * (150 * 150) / (150 * 150)
+  = 75 - (1 / 300) * a * (X - 150) * (X - 150)
+  
+X is i
+Y is 75 - a/300*(i-150)*(i-150)
+  </pre>
  </body>
 </html>
