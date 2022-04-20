@@ -1,0 +1,4 @@
+<div id='svgWrapper'>
+    <img src='collision-1d-type-0.svg'/>
+</div>
+
