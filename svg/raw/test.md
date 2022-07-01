@@ -6,3 +6,6 @@ $x^2 + \sqrt{\frac12}$
   x^2
 \end{equation}
  
+$$
+  x^2
+$$ 
