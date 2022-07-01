@@ -13,11 +13,4 @@
     stroke-width="10"
   />
   
-  <text x="10" y="30" style="fill:blue;font-size:10px">$\sqrt{2}$</text>
-  
-  <foreignObject x="20" y="20" width="160" height="160">
-  \begin{equation}
-  x^2
-  \end{equation}
-  </foreignObject>
-</svg>
+ </svg>

@@ -1,3 +1,8 @@
 ![](circle.svg)
 
-$x$
+$x^2 + \sqrt{\frac12}$
+
+\begin{equation}
+  x^2
+\end{equation}
+ 
